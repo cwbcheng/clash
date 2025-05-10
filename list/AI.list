@@ -2,7 +2,6 @@
 # 域名关键字匹配
 # DOMAIN-KEYWORD,openai
 # DOMAIN-KEYWORD,anthropic
-# DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
@@ -21,11 +20,7 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,circumlunar.space
 DOMAIN-SUFFIX,vulpes.one
 DOMAIN-SUFFIX,mozz.us
@@ -39,7 +34,4 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.ai
 
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
