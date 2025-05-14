@@ -6,6 +6,7 @@ IP-CIDR,95.161.76.0/24,no-resolve
 IP-CIDR,142.251.215.0/24,no-resolve
 
 IP-CIDR,20.243.32.0/24,,no-resolve
+DOMAIN-SUFFIX,e-ix.com
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
