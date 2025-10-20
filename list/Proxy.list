@@ -9,6 +9,7 @@ IP-CIDR,20.243.32.0/24,,no-resolve
 DOMAIN-SUFFIX,e-ix.com
 
 # 国外DNS
+DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
