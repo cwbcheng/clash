@@ -5,7 +5,6 @@
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
 
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
@@ -34,4 +33,5 @@ DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.ai
 
 DOMAIN-SUFFIX,signalr.net
+
 
